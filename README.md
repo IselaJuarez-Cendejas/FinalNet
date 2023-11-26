@@ -1,5 +1,4 @@
 # FinalNet
-##**Isela Juarez-Cendejas**
 
 **Initial Model:**
 The model that I first designed only had two layers and achieved an accuracy of 74%.
