@@ -12,4 +12,4 @@ Also, for the final model, I increased the batch size and added some randomness 
 
 Then, I also added a schedular that took in the optimizer variable from my last code, step_size of 20 and a gamma value of 0.1.
 
-All of this ended up giving me an accuracy of 90% which was not that much of an increase (2%) but still a huge improvement from the intital model. To further improve this in the future and for any model for that matter, I realize that a bit more randomness and normalization to the training data makes a big difference in performance as well as the optimizers used which in my case did increase the accuracy.
+All of this ended up giving me an accuracy of 90% which was not that much of an increase (2%) but still a huge improvement from the intital model. To further improve this, a bit more randomness and normalization to the training data makes a big difference in performance as well as the optimizers used which in my case did increase the accuracy.
